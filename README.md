@@ -1,5 +1,6 @@
 # rise-of-liberty-demo-hack
 (god mode, short  reload (press r after each shot), ammo cache gives 999 ammo
+download the dll
 put it in a copy of a rise of liberty demo
 1.open file
 2.go to managed
